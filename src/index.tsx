@@ -1,4 +1,3 @@
-import React from 'react';
 import { createRoot } from 'react-dom/client';
 import RootRouter from './Route';
 import { I18nextProvider } from 'react-i18next';
